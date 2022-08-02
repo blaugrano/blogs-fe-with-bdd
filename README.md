@@ -13,8 +13,8 @@ To run the tests, you'll need to do this in a terminal (but remember to have the
 
 ```bash
 source venv/bin/activate
-cd section6/video_code/
+cd [project_folder]
 python -m behave tests/acceptance
 ```
 
-If you want to run the tests in PyCharm, you'll need to create appropriate configurations. We cover this in the course!
+If you want to run the tests in PyCharm, you'll need to create appropriate configurations.
